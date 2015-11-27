@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "syncTest", "asyncTest\syncTest.csproj", "{22A95853-D64C-428E-A7B2-8EDE8B3B4A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async_Test", "async_Test\async_Test.csproj", "{E2AE97FF-1203-4531-8971-468DD1B4B552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncLambdas", "AsyncLambdas\AsyncLambdas.csproj", "{5A11A030-8E0A-4DD7-8E2D-DF9CE3457563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A95853-D64C-428E-A7B2-8EDE8B3B4A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A95853-D64C-428E-A7B2-8EDE8B3B4A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A95853-D64C-428E-A7B2-8EDE8B3B4A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A95853-D64C-428E-A7B2-8EDE8B3B4A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2AE97FF-1203-4531-8971-468DD1B4B552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AE97FF-1203-4531-8971-468DD1B4B552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AE97FF-1203-4531-8971-468DD1B4B552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AE97FF-1203-4531-8971-468DD1B4B552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A11A030-8E0A-4DD7-8E2D-DF9CE3457563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A11A030-8E0A-4DD7-8E2D-DF9CE3457563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A11A030-8E0A-4DD7-8E2D-DF9CE3457563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A11A030-8E0A-4DD7-8E2D-DF9CE3457563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E91E55DB-2D57-45A5-8B33-B07C5A8E0996}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConsoleApplication1</RootNamespace>
+    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Edge.cs" />
+    <Compile Include="Generators\GraphGeneratorBase.cs" />
+    <Compile Include="Generators\GraphGeneratorRandom.cs" />
+    <Compile Include="Generators\GraphGeneratorRandomEdges.cs" />
+    <Compile Include="IGraph.cs" />
+    <Compile Include="Impl\DenseGraph.cs" />
+    <Compile Include="Impl\DictionaryGraph.cs" />
+    <Compile Include="Impl\SparseGraphList.cs" />
+    <Compile Include="Impl\SparseMultiGraph.cs" />
+    <Compile Include="Measure.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Impl\TrivialGraph.cs" />
+    <Compile Include="Tasks\GraphProcessingTaskBase.cs" />
+    <Compile Include="Tasks\IGraphProcessingTask.cs" />
+    <Compile Include="Tasks\TaskCreateDenseGraph.cs" />
+    <Compile Include="Tasks\TaskCreateSparseGraph.cs" />
+    <Compile Include="Tasks\TaskDetermineVertexesDegrees.cs" />
+    <Compile Include="Tasks\TaskDfs.cs" />
+    <Compile Include="Tasks\TaskFindSimplePath.cs" />
+    <Compile Include="Tasks\TaskSearch.cs" />
+    <Compile Include="Utils\DepthFirstSearcher.cs" />
+    <Compile Include="Utils\GraphUtils.cs" />
+    <Compile Include="Utils\SimplePathSearcher.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
