@@ -4,10 +4,10 @@ from enum import Enum
 # задаём конечный автомат
 
 # пустая цепочка
-eps = ''
+eps = 'ε'
 
 # пустое множество
-emptySet = '∅'
+emptySet = 'ø'
 
 # алфавит
 sigma = {0, 1}
@@ -55,7 +55,7 @@ def toRegexInternal(i, j, k):
 def getZeroLevel(i, j):
     result = ''
     if i == j:
-        result += 'eps' # из состояния в само себя можно переходить по эпсилон в любом случае
+        result += eps # из состояния в само себя можно переходить по эпсилон в любом случае
     mapping = delta[i] # тут все переходы из состояния i
     # есть два возможных варианта:
     #   - переход из i в i по символу, отличному от эпсилон (петля)
@@ -71,6 +71,6 @@ def getZeroLevel(i, j):
     return result
 
 # print('R=' + str(getZeroLevel(3,3)))
-print('R=' + str(toRegexInternal(1,1,0)))
+print('R=' + str(toRegexInternal(1,3,2)))
 
 
