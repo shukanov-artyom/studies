@@ -1,0 +1,12 @@
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\bin\Debug\Study.exe.config
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\bin\Debug\Study.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\bin\Debug\Study.pdb
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\obj\Debug\Study.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\obj\Debug\Study.pdb
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\bin\Debug\Study.exe.config
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\obj\Debug\Study.exe
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\obj\Debug\Study.pdb
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\bin\Debug\Study.exe
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\bin\Debug\Study.pdb
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Study\obj\Debug\Study.csprojResolveAssemblyReference.cache

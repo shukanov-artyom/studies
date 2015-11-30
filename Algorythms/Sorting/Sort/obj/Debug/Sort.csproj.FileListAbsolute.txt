@@ -1,0 +1,12 @@
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\bin\Debug\Sort.exe.config
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\obj\Debug\Sort.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\bin\Debug\Sort.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\bin\Debug\Sort.pdb
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\obj\Debug\Sort.pdb
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\bin\Debug\Sort.exe.config
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\obj\Debug\Sort.exe
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\obj\Debug\Sort.pdb
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\bin\Debug\Sort.exe
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\bin\Debug\Sort.pdb
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\dev\VSO5\VTS Study\Tests\Starter\bin\Debug\Starter.exe.config
+D:\dev\VSO5\VTS Study\Tests\Starter\bin\Debug\Starter.exe
+D:\dev\VSO5\VTS Study\Tests\Starter\bin\Debug\Starter.pdb
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\Starter.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\MainWindow.baml
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\MainWindow.g.cs
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\App.g.cs
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\Starter_MarkupCompile.cache
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\Starter.g.resources
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\Starter.Properties.Resources.resources
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\Starter.csproj.GenerateResource.Cache
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\Starter.exe
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\Starter.pdb
+D:\dev\VSO5\VTS Study\Tests\Starter\obj\Debug\App.baml
+D:\dev\studies\Tests\Starter\bin\Debug\Starter.exe.config
+D:\dev\studies\Tests\Starter\obj\Debug\Starter.exe
+D:\dev\studies\Tests\Starter\obj\Debug\Starter.pdb

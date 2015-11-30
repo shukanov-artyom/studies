@@ -1,0 +1,13 @@
+﻿<Window x:Class="Hashing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"
+        Height="200"
+        Width="150">
+    <StackPanel
+        Orientation="Vertical">
+        <Button 
+            Style="{StaticResource myButtonStyle}"
+            Content="Hashing"/>
+    </StackPanel>
+</Window>

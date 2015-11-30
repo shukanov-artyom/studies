@@ -1,0 +1,6 @@
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Graphs\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Graphs\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Graphs\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Graphs\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Graphs\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Graphs\ConsoleApplication1\obj\Debug\Grapher.csprojResolveAssemblyReference.cache

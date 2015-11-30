@@ -1,0 +1,13 @@
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\bin\Debug\SingletonApplication.exe.config
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\bin\Debug\SingletonApplication.exe
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\bin\Debug\SingletonApplication.pdb
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\SingletonApplication.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\MainWindow.baml
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\MainWindow.g.cs
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\App.g.cs
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\SingletonApplication_MarkupCompile.cache
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\SingletonApplication.g.resources
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\SingletonApplication.Properties.Resources.resources
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\SingletonApplication.csproj.GenerateResource.Cache
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\SingletonApplication.exe
+D:\dev\VSO5\VTS Study\WPF\McDonald\SingletonApplication\obj\Debug\SingletonApplication.pdb

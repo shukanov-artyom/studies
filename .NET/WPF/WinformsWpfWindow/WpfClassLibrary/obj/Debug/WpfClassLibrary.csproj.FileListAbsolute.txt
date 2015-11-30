@@ -1,0 +1,9 @@
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WpfClassLibrary\bin\Debug\WpfClassLibrary.dll
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WpfClassLibrary\bin\Debug\WpfClassLibrary.pdb
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WpfClassLibrary\obj\Debug\WpfClassLibrary.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WpfClassLibrary\obj\Debug\NakedLover.baml
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WpfClassLibrary\obj\Debug\NakedLover.g.cs
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WpfClassLibrary\obj\Debug\WpfClassLibrary_MarkupCompile.cache
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WpfClassLibrary\obj\Debug\WpfClassLibrary.g.resources
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WpfClassLibrary\obj\Debug\WpfClassLibrary.dll
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WpfClassLibrary\obj\Debug\WpfClassLibrary.pdb

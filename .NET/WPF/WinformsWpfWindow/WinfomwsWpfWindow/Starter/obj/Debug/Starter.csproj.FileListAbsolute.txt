@@ -1,0 +1,11 @@
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\bin\Debug\Starter.exe.config
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\bin\Debug\Starter.exe
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\bin\Debug\Starter.pdb
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\bin\Debug\WpfClassLibrary.dll
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\bin\Debug\WpfClassLibrary.pdb
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\obj\Debug\Starter.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\obj\Debug\Starter.Form1.resources
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\obj\Debug\Starter.Properties.Resources.resources
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\obj\Debug\Starter.csproj.GenerateResource.Cache
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\obj\Debug\Starter.exe
+D:\dev\VSO5\VTS Study\WPF\WinformsWpfWindow\WinfomwsWpfWindow\Starter\obj\Debug\Starter.pdb

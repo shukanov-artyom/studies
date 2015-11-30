@@ -1,0 +1,1 @@
+StateMachinesToRegex - a small app that sets up a simple state machine and converts this state machine to a corresponding regular expression which defines the same regular language

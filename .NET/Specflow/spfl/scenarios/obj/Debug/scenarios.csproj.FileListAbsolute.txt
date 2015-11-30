@@ -1,0 +1,11 @@
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\obj\Debug\scenarios.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\bin\Debug\scenarios.dll.config
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\bin\Debug\scenarios.dll
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\bin\Debug\scenarios.pdb
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\bin\Debug\nunit.framework.dll
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\bin\Debug\TechTalk.SpecFlow.dll
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\bin\Debug\nunit.framework.xml
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\obj\Debug\scenarios.dll
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\obj\Debug\scenarios.pdb
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\bin\Debug\spfl.exe
+D:\dev\VSO5\VTS Study\Specflow\spfl\scenarios\bin\Debug\spfl.pdb

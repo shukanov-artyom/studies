@@ -1,0 +1,12 @@
+E:\dev\VSO5\VTS Study\Tests\PerformanceCounters\bin\Debug\PerformanceCounters.exe.config
+E:\dev\VSO5\VTS Study\Tests\PerformanceCounters\bin\Debug\PerformanceCounters.exe
+E:\dev\VSO5\VTS Study\Tests\PerformanceCounters\bin\Debug\PerformanceCounters.pdb
+E:\dev\VSO5\VTS Study\Tests\PerformanceCounters\obj\Debug\PerformanceCounters.csprojResolveAssemblyReference.cache
+E:\dev\VSO5\VTS Study\Tests\PerformanceCounters\obj\Debug\PerformanceCounters.exe
+E:\dev\VSO5\VTS Study\Tests\PerformanceCounters\obj\Debug\PerformanceCounters.pdb
+D:\dev\VSO5\VTS Study\Tests\PerformanceCounters\bin\Debug\PerformanceCounters.exe.config
+D:\dev\VSO5\VTS Study\Tests\PerformanceCounters\obj\Debug\PerformanceCounters.exe
+D:\dev\VSO5\VTS Study\Tests\PerformanceCounters\obj\Debug\PerformanceCounters.pdb
+D:\dev\VSO5\VTS Study\Tests\PerformanceCounters\bin\Debug\PerformanceCounters.exe
+D:\dev\VSO5\VTS Study\Tests\PerformanceCounters\bin\Debug\PerformanceCounters.pdb
+D:\dev\VSO5\VTS Study\Tests\PerformanceCounters\obj\Debug\PerformanceCounters.csprojResolveAssemblyReference.cache

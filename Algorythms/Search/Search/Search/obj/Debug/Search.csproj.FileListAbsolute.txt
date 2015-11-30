@@ -1,0 +1,12 @@
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\bin\Debug\Search.exe.config
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\bin\Debug\Search.exe
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\bin\Debug\Search.pdb
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\obj\Debug\Search.csprojResolveAssemblyReference.cache
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\obj\Debug\Search.exe
+E:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\obj\Debug\Search.pdb
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\bin\Debug\Search.exe.config
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\bin\Debug\Search.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\bin\Debug\Search.pdb
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\obj\Debug\Search.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\obj\Debug\Search.pdb
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Search\Search\Search\obj\Debug\Search.csprojResolveAssemblyReference.cache

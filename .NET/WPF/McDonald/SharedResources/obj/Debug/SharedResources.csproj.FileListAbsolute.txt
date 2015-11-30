@@ -1,0 +1,10 @@
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\obj\Debug\SharedResources_MarkupCompile.cache
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\bin\Debug\SharedResources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\bin\Debug\SharedResources.pdb
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\obj\Debug\SharedResources_MarkupCompile.lref
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\obj\Debug\Themes\generic.baml
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\obj\Debug\SharedResources.g.resources
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\obj\Debug\SharedResources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\obj\Debug\SharedResources.pdb
+D:\dev\VSO5\VTS Study\WPF\McDonald\SharedResources\obj\Debug\SharedResources.csprojResolveAssemblyReference.cache

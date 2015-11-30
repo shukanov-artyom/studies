@@ -1,0 +1,6 @@
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Numbers\primes\primes\bin\Debug\primes.exe.config
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Numbers\primes\primes\bin\Debug\primes.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Numbers\primes\primes\bin\Debug\primes.pdb
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Numbers\primes\primes\obj\Debug\primes.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Numbers\primes\primes\obj\Debug\primes.exe
+D:\dev\VSO5\VTS Study\Algorythms\CSharp\Numbers\primes\primes\obj\Debug\primes.pdb

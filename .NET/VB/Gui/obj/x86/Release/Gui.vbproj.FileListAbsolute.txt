@@ -1,0 +1,14 @@
+D:\dev\VSO5\VTS Study\VB\Gui\bin\x86\Release\Gui.exe.config
+D:\dev\VSO5\VTS Study\VB\Gui\bin\x86\Release\Gui.exe
+D:\dev\VSO5\VTS Study\VB\Gui\bin\x86\Release\Gui.pdb
+D:\dev\VSO5\VTS Study\VB\Gui\bin\x86\Release\Gui.xml
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\MainWindow.baml
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\MainWindow.g.vb
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\Application.g.vb
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\Gui_MarkupCompile.cache
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\Gui.g.resources
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\Gui.Resources.resources
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\Gui.vbproj.GenerateResource.Cache
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\Gui.exe
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\Gui.xml
+D:\dev\VSO5\VTS Study\VB\Gui\obj\x86\Release\Gui.pdb

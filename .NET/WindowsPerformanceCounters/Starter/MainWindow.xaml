@@ -1,0 +1,42 @@
+﻿<Window x:Class="Starter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"
+        Height="350" 
+        Width="525">
+    <Window.Resources>
+        <ResourceDictionary>
+            <Style x:Key="MyButtonStyle">
+                <Setter Property="Button.Height" Value="23"/>
+                <Setter Property="Button.Width" Value="100"/>
+                <Setter Property="Button.Margin" Value="0,10,0,0"/>
+            </Style>
+        </ResourceDictionary>
+    </Window.Resources>
+    <StackPanel
+        Orientation="Vertical">
+        <Button 
+            Style="{StaticResource MyButtonStyle}"
+            Content="Start"
+            Click="InitializeClicked"/>
+        <StackPanel 
+            Orientation="Horizontal"
+            Margin="10">
+            <TextBlock 
+                Text="Current Instance: "/>
+            <ComboBox 
+                x:Name="comboBoxInstance"
+                SelectionChanged="Selector_OnSelected"/>
+        </StackPanel>
+        <Button
+            Style="{StaticResource MyButtonStyle}"
+            Content="Add Instance"
+            Click="AddInstanceClicked"/>
+        
+        <Button 
+            Style="{StaticResource MyButtonStyle}"
+            Content="Add Thread"
+            Click="AddThreadClicked"/>
+        
+    </StackPanel>
+</Window>

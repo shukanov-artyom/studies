@@ -1,0 +1,15 @@
+﻿<Window x:Class="McDonald.SharedResourcesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:SharedResources="clr-namespace:SharedResources;assembly=SharedResources"
+        Title="SharedResourcesWindow" 
+        Height="300"
+        Width="300">
+    <Grid>
+        <Rectangle
+            Height="30"
+            Width="30"
+            Fill="{DynamicResource {ComponentResourceKey TypeInTargetAssembly={x:Type SharedResources:SharedResourceClass}, ResourceId=customBrushResourceKey}}">
+        </Rectangle>
+    </Grid>
+</Window>

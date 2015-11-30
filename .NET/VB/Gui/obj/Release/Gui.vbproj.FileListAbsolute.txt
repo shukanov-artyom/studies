@@ -1,0 +1,9 @@
+D:\dev\VSO5\VTS Study\VB\Gui\bin\Release\Gui.exe.config
+D:\dev\VSO5\VTS Study\VB\Gui\obj\Release\MainWindow.baml
+D:\dev\VSO5\VTS Study\VB\Gui\obj\Release\MainWindow.g.vb
+D:\dev\VSO5\VTS Study\VB\Gui\obj\Release\Application.g.vb
+D:\dev\VSO5\VTS Study\VB\Gui\obj\Release\Gui_MarkupCompile.cache
+D:\dev\VSO5\VTS Study\VB\Gui\obj\Release\Gui.g.resources
+D:\dev\VSO5\VTS Study\VB\Gui\obj\Release\Gui.Resources.resources
+D:\dev\VSO5\VTS Study\VB\Gui\obj\Release\Gui.vbproj.GenerateResource.Cache
+D:\dev\VSO5\VTS Study\VB\Gui\obj\Release\Gui.xml

@@ -1,0 +1,9 @@
+D:\dev\VSO5\VTS Study\Specflow\spfl\spfl\bin\Debug\spfl.exe
+D:\dev\VSO5\VTS Study\Specflow\spfl\spfl\bin\Debug\spfl.pdb
+D:\dev\VSO5\VTS Study\Specflow\spfl\spfl\obj\Debug\spfl.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\Specflow\spfl\spfl\obj\Debug\spfl.exe
+D:\dev\VSO5\VTS Study\Specflow\spfl\spfl\obj\Debug\spfl.pdb
+D:\dev\VSO5\VTS Study\Specflow\spfl\spfl\bin\Debug\spfl.exe.config
+D:\dev\VSO5\VTS Study\Specflow\spfl\spfl\bin\Debug\TechTalk.SpecFlow.dll
+D:\dev\VSO5\VTS Study\Specflow\spfl\spfl\bin\Debug\nunit.framework.dll
+D:\dev\VSO5\VTS Study\Specflow\spfl\spfl\bin\Debug\nunit.framework.xml

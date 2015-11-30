@@ -1,0 +1,16 @@
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\CustomBehaviors.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\CustomBehaviors.pdb
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\System.Windows.Interactivity.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\obj\Debug\CustomBehaviors.csprojResolveAssemblyReference.cache
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\obj\Debug\CustomBehaviors.dll
+D:\dev\VSO5\VTS Study\WPF\McDonald\CustomBehaviors\obj\Debug\CustomBehaviors.pdb

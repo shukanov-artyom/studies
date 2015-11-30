@@ -1,0 +1,2 @@
+Algorythms – Some algoryhms and data structures implemented using an "Algorythms on C++" book by Sedgewick
+StateMachines - there are some solutions to problems from "Introduction to Automata Theory, Languages, and Computation (2rd Edition)" book
