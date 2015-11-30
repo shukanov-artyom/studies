@@ -2,6 +2,12 @@ import sys
 import os.path
 import xml.etree.ElementTree as etree
 
+'''
+Пока ещё неудачный опыт работы с XML файлами с простраснтвами имён с помощью библиотеки etree
+Неудача состоит в том, что после редактирования и перезаписи протсранство имён добавляется перед каждым тегом,
+как этого избежать непонятно
+'''
+
 ns = '{http://schemas.microsoft.com/exchange/services/2006/types}'
 
 def processAttach(att):
@@ -19,6 +25,8 @@ def proc(filepath):
         fileAttaches = attach.findall(ns + 'FileAttachment')
         for fileAttach in fileAttaches:
             processAttach(fileAttach)
+    tree.write(filepath)
+
 proc('message_1.xml')
 
 '''for line in open('files.txt'):
