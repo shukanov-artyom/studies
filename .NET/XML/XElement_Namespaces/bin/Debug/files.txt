@@ -1,0 +1,179 @@
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Disk\corruptedprop@test.corp\Mailbox\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Disk\corruptedprop@test.corp\Mailbox\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Disk\corruptedprop@test.corp\Mailbox\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EsoExchangeDirect\envelop2003@test.corp\Mailbox\Inbox\message_4.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EsoExchangeDirect\envelop2007@test.corp\Mailbox\Inbox\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EsoExchangeDirect\envelop2007@test.corp\Mailbox\Inbox\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_9.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_10.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_11.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_12.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_16.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_18.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_20.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_21.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_22.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_28.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_29.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_30.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_31.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_34.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_50.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_53.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_67.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_68.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_98.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\Inbox\message_101.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_4.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_5.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_6.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_7.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_8.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_9.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Corporate Support News\message_10.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_4.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_5.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_6.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_7.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_8.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_9.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_10.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_11.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_12.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_13.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_14.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_15.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_16.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_17.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_18.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_19.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_20.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_21.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_22.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_23.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_24.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_25.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_26.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_27.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_28.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_29.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\RSS Feeds\Itransition News\message_30.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_7.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_8.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_13.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_16.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_18.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_21.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_22.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_23.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_29.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_43.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_44.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_49.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_52.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_54.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_57.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_58.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_59.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\EvHybridExchange\envelope_output@test.corp\Mailbox\UnKnown Folder\message_65.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Nsf\soadmin@test.corp\Mailbox\Inbox\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Nsf\soadmin_7.0@test.corp\Mailbox\Inbox\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\contactsquality@test.corp\Mailbox\Guys\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\contactsquality@test.corp\Mailbox\Guys\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\documentsquality@test.corp\Mailbox\Jerry\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\documentsquality@test.corp\Mailbox\Jerry\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\documentsquality@test.corp\Mailbox\Jerry\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\documentsquality@test.corp\Mailbox\Tom\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\documentsquality@test.corp\Mailbox\Tom\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\journalsquality@test.corp\Mailbox\Journal 2\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\mupequality@test.corp\Mailbox\Email Messages\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\mupequality@test.corp\Mailbox\Inbox\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\mupequality@test.corp\Mailbox\Inbox\message_9.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\mupequality@test.corp\Mailbox\Sent Items\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\mupequality@test.corp\Mailbox\Sent Items\message_7.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\mupequality@test.corp\Mailbox\Sent Items\message_8.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\office365quality@test.corp\Mailbox\Inbox\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\office365quality@test.corp\Mailbox\Inbox\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\tasksquality@test.corp\Mailbox\Inbox\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\tasksquality@test.corp\Mailbox\Inbox\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\tasksquality@test.corp\Mailbox\Inbox\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubQualityStore\Pst\tasksquality@test.corp\Mailbox\Inbox\message_4.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\contactsquality@test.corp\Mailbox\Guys\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\contactsquality@test.corp\Mailbox\Guys\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\corruptedprop@test.corp\Mailbox\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\corruptedprop@test.corp\Mailbox\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\corruptedprop@test.corp\Mailbox\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Inbox\message_11.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Inbox\message_12.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Inbox\message_14.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Inbox\message_16.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Inbox\message_17.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Inbox\message_18.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Inbox\message_19.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Inbox\message_20.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Sent Items\message_11.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Sent Items\message_12.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Sent Items\message_14.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Sent Items\message_16.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Sent Items\message_17.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Sent Items\message_18.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Sent Items\message_19.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts1@test.corp\Mailbox\Sent Items\message_20.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Inbox\message_18.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Inbox\message_19.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Inbox\message_21.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Inbox\message_23.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Inbox\message_24.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Inbox\message_25.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Inbox\message_26.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Inbox\message_27.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Sent Items\message_51.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Sent Items\message_52.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Sent Items\message_54.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Sent Items\message_56.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Sent Items\message_57.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Sent Items\message_58.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Sent Items\message_59.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\easshortcuts@test.corp\Mailbox\Sent Items\message_60.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\gather.mailbox@test.corp\Mailbox\Email Messages\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\gather.mailbox@test.corp\Mailbox\Inbox\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\gather.mailbox@test.corp\Mailbox\Sent Items\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\gather.mailbox@test.corp\Mailbox\Sent Items\message_7.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\Datacenter\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Corporate Support News (1)\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Corporate Support News (1)\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Corporate Support News (1)\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_4.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_5.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_6.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_7.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_8.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_9.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_10.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_11.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\RSS Feeds\Itransition News (1)\message_12.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\geralt-of-rivia@tv-mtl.corp\Mailbox\Sent Items\message_6.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Contacts\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Inbox\Documents\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Inbox\Documents\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Inbox\Documents\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Inbox\Documents\message_4.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Inbox\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Inbox\message_7.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Inbox\message_9.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Inbox\message_15.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\mailbox1@test.corp\Mailbox\Tasks\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\soadmin_7.0@test.corp\Mailbox\Inbox\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\tasksquality@test.corp\Mailbox\Inbox\message_1.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\tasksquality@test.corp\Mailbox\Inbox\message_2.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\tasksquality@test.corp\Mailbox\Inbox\message_3.xml
+D:\dev\Trunk\Tests\Data\Bdd\Ews\StubVirtualStore\tasksquality@test.corp\Mailbox\Inbox\message_4.xml

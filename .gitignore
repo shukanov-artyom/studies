@@ -124,3 +124,5 @@ Codeforces/1A_TheaterSquare/cs/1A_TheaterSquare/bin/
 Python/classes/.idea/
 Python/StateMachines/StateMachineToRegex/.idea/
 Python/namespaces/.idea/
+.NET/XML/XElement_Namespaces/obj/
+*.pdb
