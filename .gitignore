@@ -129,3 +129,8 @@ Python/namespaces/.idea/
 Python/arguments/.idea/
 Python/sequences/.idea/
 Algorythms/Numbers/primes/primes/obj/
+.NET/IronPython/ipy/obj/
+.NET/IronPython/ipy/bin/
+.NET/IronPython/ipy/packages/
+.NET/ExpandoObject/expando/bin/
+.NET/ExpandoObject/expando/obj/
