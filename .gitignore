@@ -131,3 +131,13 @@ Python/sequences/.idea/
 Algorythms/Numbers/primes/primes/obj/
 .NET/general/general/obj/
 .NET/general/general/bin/
+.NET/Wix#/wixplay/installer/obj/
+.NET/Wix#/wixplay/wixplay/obj/
+.NET/Wix#/wixplay/wixplay/packages/
+.NET/Wix#/wixplay/installer/bin/
+.NET/DLR/dlrstudy/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+.NET/DLR/dlrstudy/obj/
+.NET/Wix#/wixplay/wixplay/bin/
+.NET/DLR/dlrstudy/bin/
+.NET/Wix#/wixplay/packages/
+.NET/Wix#/wixplay/installer/wix/installer.g.wxs

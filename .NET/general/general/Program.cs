@@ -14,17 +14,14 @@ namespace general
 
         static void Main(string[] args)
         {
-            String name = "Joe";
-            String additional;
-            D(name);
-
-            return;
+            Int32 v = 5;
+            Object o = v;
+            v = 123;
         }
 
         private static int D(string m)
         {
-            Int32 length = m.Length;
-            return length;
+            return 0;
         }
     }
 }
