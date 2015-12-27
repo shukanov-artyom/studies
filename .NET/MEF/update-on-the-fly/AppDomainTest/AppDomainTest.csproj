@@ -50,6 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AppDomainTestInterfaces\AppDomainTestInterfaces.csproj">
+      <Project>{5292B860-70D2-4175-993D-1CF30328643A}</Project>
+      <Name>AppDomainTestInterfaces</Name>
+    </ProjectReference>
     <ProjectReference Include="..\AppDomainTestRunner\AppDomainTestRunner.csproj">
       <Project>{8dcc73d7-90e6-4343-a7ef-27cb6600501e}</Project>
       <Name>AppDomainTestRunner</Name>
