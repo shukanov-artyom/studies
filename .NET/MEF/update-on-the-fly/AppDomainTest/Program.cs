@@ -5,6 +5,7 @@ namespace fly
 {
     internal class Program
     {
+        http://multithreadthoughts.blogspot.com.by/2013/08/mef-and-appdomain-remove-assemblies-on.html
         private static AppDomain domain;
 
         [STAThread]
