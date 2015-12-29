@@ -51,29 +51,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.Deployment.WindowsInstaller, Version=3.0.0.0, Culture=neutral, PublicKeyToken=ce35f76fcda82bad, processorArchitecture=MSIL">
-      <HintPath>..\packages\WixSharp.1.0.30.0\lib\Microsoft.Deployment.WindowsInstaller.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
-    <Reference Include="WixSharp, Version=1.0.30.0, Culture=neutral, PublicKeyToken=3775edd25acc43c2, processorArchitecture=MSIL">
-      <HintPath>..\packages\WixSharp.1.0.30.0\lib\WixSharp.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Script.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="packages.config" />
     <None Include="wix\$(ProjectName).g.wxs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
@@ -84,6 +68,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Deployment.WindowsInstaller">
+      <HintPath>..\packages\WixSharp.1.0.30.0\lib\Microsoft.Deployment.WindowsInstaller.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WixSharp">
+      <HintPath>..\packages\WixSharp.1.0.30.0\lib\WixSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WixSharp.UI">
+      <HintPath>..\packages\WixSharp.1.0.30.0\lib\WixSharp.UI.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\wixplay\packages\WixSharp.1.0.30.0\build\WixSharp.targets" Condition="Exists('..\wixplay\packages\WixSharp.1.0.30.0\build\WixSharp.targets')" />
@@ -98,7 +96,6 @@
     <PostBuildEvent>cd "$(ProjectDir)"
 "$(TargetPath)"</PostBuildEvent>
   </PropertyGroup>
-  <Import Project="..\packages\WixSharp.1.0.30.0\build\WixSharp.targets" Condition="Exists('..\packages\WixSharp.1.0.30.0\build\WixSharp.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
@@ -106,5 +103,6 @@
   <Target Name="AfterBuild">
   </Target>
   -->
+  <Import Project="..\packages\WixSharp.1.0.30.0\build\WixSharp.targets" Condition="Exists('..\packages\WixSharp.1.0.30.0\build\WixSharp.targets')" />
   <UsingTask AssemblyFile="packages\WixSharp.1.0.30.0\build\SetEnvVar.dll" TaskName="SetEnvVar" />
 </Project>

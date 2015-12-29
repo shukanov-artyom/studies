@@ -61,16 +61,6 @@ namespace AppDomainTestRunner
             exports = container.GetExportedValues<IExport>();
         }
 
-        private void EventsStarterOnSomeOtherEvent(object sender, EventArgs eventArgs)
-        {
-            throw new NotImplementedException();
-        }
-
-        private void EventsStarterOnSomeEvent(object sender, EventArgs eventArgs)
-        {
-            throw new NotImplementedException();
-        }
-
         public void DoSomething()
         {
             // Tell our MEF parts to do something.
