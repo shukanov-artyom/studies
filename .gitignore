@@ -164,3 +164,9 @@ Codeforces/609A_FlashCards/.idea/workspace.xml
 .NET/MEF/update-on-the-fly/AppDomainTestRunner/bin/
 .NET/TPL/Non-Awaited call/nonaw/obj/
 .NET/TPL/Non-Awaited call/nonaw/bin/
+.NET/TPL/deadlock/bin/
+.NET/TPL/deadlock/obj/
+.NET/TPL/AsyncDeadlockCommonIssue/shared/obj/
+.NET/TPL/AsyncDeadlockCommonIssue/shared/bin/
+.NET/TPL/AsyncDeadlockCommonIssue/obj/
+.NET/TPL/AsyncDeadlockCommonIssue/bin/

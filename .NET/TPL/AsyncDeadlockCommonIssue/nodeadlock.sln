@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nodeadlock", "nodeadlock.csproj", "{5542A101-20C3-47E1-A8EE-97174BFF5B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shared", "shared\shared.csproj", "{C7B60D65-C4A4-48DE-BB2A-E0DAB7CD2461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deadlock", "..\deadlock\deadlock.csproj", "{50E018F2-84C8-4FE5-B989-0DBA680FB055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5542A101-20C3-47E1-A8EE-97174BFF5B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5542A101-20C3-47E1-A8EE-97174BFF5B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5542A101-20C3-47E1-A8EE-97174BFF5B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5542A101-20C3-47E1-A8EE-97174BFF5B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B60D65-C4A4-48DE-BB2A-E0DAB7CD2461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B60D65-C4A4-48DE-BB2A-E0DAB7CD2461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B60D65-C4A4-48DE-BB2A-E0DAB7CD2461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B60D65-C4A4-48DE-BB2A-E0DAB7CD2461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E018F2-84C8-4FE5-B989-0DBA680FB055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E018F2-84C8-4FE5-B989-0DBA680FB055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E018F2-84C8-4FE5-B989-0DBA680FB055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E018F2-84C8-4FE5-B989-0DBA680FB055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
