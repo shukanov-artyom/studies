@@ -1,7 +1,5 @@
-# сорировка пузырьком с прямым движением, наибольшее значение накапливается справа
-
 inputFile = open('data.txt', 'r', 1)
-bytes = inputFile.read() # считали полное содержимое файла в строку
+bytes = inputFile.read()
 values = []
 for w in bytes.split(','): 
     values.append(int(w))

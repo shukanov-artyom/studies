@@ -18,10 +18,12 @@ namespace helloworld
             LoggerConfiguration config = new LoggerConfiguration();
             config.WriteTo.ColoredConsole();
             config.WriteTo.Log4Net(defaultLoggerName: "helloworld.logger");
+            config.WriteTo.Seq("http://localhost:5341/");
             ILogger logger = config.CreateLogger();
 
             logger.Information("Some data from Serilog!");
             logger.Error("Some error from Serilog!");
+            logger.Information("Connector {connector} has produces {status} information equal to {completed}", "EV API", "Completed", "Completed");
 
             Console.Read();
         }
