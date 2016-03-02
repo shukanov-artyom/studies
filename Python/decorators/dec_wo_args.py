@@ -1,8 +1,10 @@
 class decoratorWithoutArgs(object):
     
     def __init__(self, f):
-    '''decorator initializer. 
-    for decorators without arguments this code is called on decoration'''
+    '''
+    decorator initializer. 
+    for decorators without arguments this code is called on decoration
+    '''
         print("--decorating with decorator--")
         self.f = f
     
