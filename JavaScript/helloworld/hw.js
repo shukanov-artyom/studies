@@ -41,6 +41,26 @@ function clickedSimpleProto() {
     
 }
 
+function clickedHamsters(){
+    
+    function Hamster(){
+        // контекст this в конструкторе это только что созданный оператором new объект.
+        this.food = [];
+    }
+    Hamster.prototype.found = function(something) {
+        this.food.push(something);
+    }
+    
+    var speedy = new Hamster();
+    var lazy = new Hamster();
+    
+    speedy.found('apple');
+    speedy.found('bread');
+    
+    console.log(speedy.food);
+    console.log(lazy.food);
+}
+
 function test() {
     let a = '3';
     let b = 4;
