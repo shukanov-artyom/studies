@@ -1,0 +1,27 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch hw.html",
+			"type": "chrome",
+			"request": "launch",
+			"file": "${workspaceRoot}/hw.html",
+            "runtimeExecutable": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+            "runtimeArgs": ["--remote-debugging-port=9222"]
+		},
+		{
+			"name": "Launch localhost with sourcemaps",
+			"type": "chrome",
+			"request": "launch",
+			"url": "http://localhost/mypage.html",
+			"sourceMaps": true,
+			"webRoot": "wwwroot"
+		},
+		{
+			"name": "Attach",
+			"type": "chrome",
+			"request": "attach",
+			"port": 9222
+		}
+	]
+}
