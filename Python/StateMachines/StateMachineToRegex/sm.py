@@ -4,10 +4,12 @@ from enum import Enum
 # задаём конечный автомат
 
 # пустая цепочка
-eps = 'ε'
+#eps = 'ε'
+eps = 'e'
 
 # пустое множество
-emptySet = 'ø'
+# emptySet = 'ø'
+emptySet = '@'
 
 # алфавит
 sigma = {0, 1}
