@@ -10,3 +10,6 @@ E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\obj\Debug\Sort.pdb
 E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\bin\Debug\Sort.exe
 E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\bin\Debug\Sort.pdb
 E:\dev\VSO5\VTS Study\Algorythms\CSharp\Sorting\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+f:\src\studies\Algorythms\Sorting\Sort\bin\Debug\Sort.exe.config
+f:\src\studies\Algorythms\Sorting\Sort\obj\Debug\Sort.exe
+f:\src\studies\Algorythms\Sorting\Sort\obj\Debug\Sort.pdb
