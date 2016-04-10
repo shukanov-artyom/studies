@@ -20,3 +20,4 @@ class D(B, C):
 if __name__ == "__main__":
     d = D()
     d.m()
+    print(D.mro())
