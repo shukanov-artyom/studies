@@ -1,0 +1,3 @@
+str = read()
+substr = read()
+
