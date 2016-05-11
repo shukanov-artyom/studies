@@ -73,6 +73,14 @@ def processReply(tweet):
             replyToTweetWithTopic(tweet, accounts.tech)
         elif 'culture' in command:
             replyToTweetWithTopic(tweet, accounts.culture)
+        elif 'world' in command:
+            replyToTweetWithTopic(tweet, accounts.world) 
+        elif 'social' in command:
+            replyToTweetWithTopic(tweet, accounts.social) 
+        elif 'science' in command:
+            replyToTweetWithTopic(tweet, accounts.science) 
+        elif 'it' in command:
+            replyToTweetWithTopic(tweet, accounts.it) 
         else: 
             print('command {0} is not supported yet'.format(command))
     except Exception as e:
