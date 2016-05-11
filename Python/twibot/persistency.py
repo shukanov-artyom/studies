@@ -40,11 +40,7 @@ def getBestTweet(acc):
 def saveBestTweet(acc, date, id):  
     global _conn
     cur = _conn.cursor()
-    query = '''IF EXISTS (SELECT * FROM "BestTweets" WHERE "Acc" = {0}) THEN
-                    UPDATE "BestTweets" SET "date" = {1}, "twitterId" = {2} WHERE "Acc" = {0};
-                ELSE
-                    INSERT INTO "BestTweets" ("Acc", "date", "twitterId") values ({0}, {1}, {2});
-                END IF;'''.format(fmt(acc), fmt(date), id)
+    query = '''select persistbesttweet({0}, {1}, {2})'''.format(fmt(acc), fmt(date), id)
     cur.execute(query)
     cur.close()
     _conn.commit()
