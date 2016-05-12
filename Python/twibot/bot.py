@@ -9,8 +9,6 @@ auth = tweepy.OAuthHandler(C_KEY, C_SECRET)
 auth.set_access_token(A_TOKEN, A_TOKEN_SECRET)
 api = tweepy.API(auth, wait_on_rate_limit=True)
 
-PodmatrasnikUserId = 386968261
-
 def getLastDaysTweets(username, days):
     end = False
     tweetsPage = 1
@@ -98,6 +96,8 @@ def processReply(tweet):
     
 # main application loop
 persistency.connect()
+print('Podmatrasnik bot started. Entering main loop.')
+PodmatrasnikUserId = 386968261
 while True:
     time.sleep(40)
     tl = api.home_timeline()
