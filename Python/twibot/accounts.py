@@ -26,4 +26,5 @@ social = ['hrw',
         'OpenSociety',
         'Medium']
         
-it = ['habrahabr']
+it = ['habrahabr',
+       'SecNewsBot']
