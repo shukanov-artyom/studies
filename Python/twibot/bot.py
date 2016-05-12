@@ -97,11 +97,10 @@ def processReply(tweet):
 # main application loop
 persistency.connect()
 print('Podmatrasnik bot started. Entering main loop.')
-PodmatrasnikUserId = 386968261
 while True:
     time.sleep(40)
     tl = api.home_timeline()
-    recentReplies = [t for t in tl if t.in_reply_to_status_id and t.in_reply_to_user_id == PodmatrasnikUserID]
+    recentReplies = [t for t in tl if t.in_reply_to_status_id and t.in_reply_to_user_id == 386968261]
     for tweet in recentReplies: 
         # we need replies to bot here
         if not isReplyProcessed(tweet.id):
