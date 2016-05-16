@@ -1,5 +1,4 @@
 tech = ['WIRED',
-        'habrahabr',
         'GeekTimes_ru',
         'verge',
         'TEDTalks',

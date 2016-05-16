@@ -70,16 +70,22 @@ def processReply(tweet):
     try:
         command = tweet.text
         if 'tech' in command:
+            print('procesing tech command')
             replyToTweetWithTopic(tweet, accounts.tech)
         elif 'culture' in command:
+            print('procesing culture command')
             replyToTweetWithTopic(tweet, accounts.culture)
         elif 'world' in command:
+            print('procesing world command')
             replyToTweetWithTopic(tweet, accounts.world) 
         elif 'social' in command:
+            print('procesing social command')
             replyToTweetWithTopic(tweet, accounts.social) 
         elif 'science' in command:
+            print('procesing art command')
             replyToTweetWithTopic(tweet, accounts.science) 
         elif 'it' in command:
+            print('procesing it command')
             replyToTweetWithTopic(tweet, accounts.it) 
         else: 
             print('command {0} is not supported yet'.format(command))
@@ -90,10 +96,12 @@ def processReply(tweet):
     
 # main application loop
 persistency.connect()
+print('Podmatrasnik bot started. Entering main loop.')
 while True:
     time.sleep(40)
     tl = api.home_timeline()
-    for tweet in [t for t in tl if t.in_reply_to_status_id and t.in_reply_to_user_id == 386968261]: 
+    recentReplies = [t for t in tl if t.in_reply_to_status_id and t.in_reply_to_user_id == 386968261]
+    for tweet in recentReplies: 
         # we need replies to bot here
         if not isReplyProcessed(tweet.id):
             processReply(tweet)
