@@ -1,0 +1,9 @@
+D:\dev\studies\.NET\Patterns\Strategy\strategy\strategy\bin\Debug\strategy.exe.config
+D:\dev\studies\.NET\Patterns\Strategy\strategy\strategy\bin\Debug\strategy.exe
+D:\dev\studies\.NET\Patterns\Strategy\strategy\strategy\bin\Debug\strategy.pdb
+D:\dev\studies\.NET\Patterns\Strategy\strategy\strategy\obj\Debug\strategy.csprojResolveAssemblyReference.cache
+D:\dev\studies\.NET\Patterns\Strategy\strategy\strategy\obj\Debug\strategy.exe
+D:\dev\studies\.NET\Patterns\Strategy\strategy\strategy\obj\Debug\strategy.pdb
+D:\dev\studies\.NET\Patterns\Strategy\strategy\bin\Debug\strategy.exe.config
+D:\dev\studies\.NET\Patterns\Strategy\strategy\obj\Debug\strategy.exe
+D:\dev\studies\.NET\Patterns\Strategy\strategy\obj\Debug\strategy.pdb
