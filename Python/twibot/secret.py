@@ -1,0 +1,4 @@
+C_KEY = "16ktpVfM6dp8dOUkT6cOnXwNA"  
+C_SECRET = "SaR1hdpBgtcc4cJLtxsJti7kOnk7Ld1Ho07FSwEoBsDeikNkjZ"  
+A_TOKEN = "386968261-n4Zi8xnqBwHpXOMf3CVYzHgIbERcbJDGfL5kDcZD"  
+A_TOKEN_SECRET = "LsKgbsotNBrfIHP8pWsKUWzEieAT6ytirtqwdqZCDk4ty"  
