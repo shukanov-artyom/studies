@@ -1,0 +1,13 @@
+x = [1;0;0];
+Theta1 = [1, 0.5, 1.9; 1, 1.2, 2.7];
+Theta1m = [1, 1.2, 2.7; 1, 0.5, 1.9];
+Theta2 = [1, -0.2, -1.7];
+Theta2m = [1, -1.7, -0.2];
+a2 = sigmoid(Theta1 * x);
+a2m = sigmoid(Theta1m * x);
+a2 = [1;a2];
+a2m = [1;a2m];
+a3 = sigmoid(Theta2 * a2);
+a3m = sigmoid(Theta2m * a2m);
+printf("Direct: %d\r\n", a3);
+printf("Reverse: %d\r\n", a3m);
