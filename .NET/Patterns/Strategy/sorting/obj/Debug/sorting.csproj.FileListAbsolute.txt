@@ -1,6 +1,0 @@
-D:\dev\studies\.NET\Patterns\Strategy\strategy\sorting\bin\Debug\sorting.exe.config
-D:\dev\studies\.NET\Patterns\Strategy\strategy\sorting\bin\Debug\sorting.exe
-D:\dev\studies\.NET\Patterns\Strategy\strategy\sorting\bin\Debug\sorting.pdb
-D:\dev\studies\.NET\Patterns\Strategy\strategy\sorting\obj\Debug\sorting.csprojResolveAssemblyReference.cache
-D:\dev\studies\.NET\Patterns\Strategy\strategy\sorting\obj\Debug\sorting.exe
-D:\dev\studies\.NET\Patterns\Strategy\strategy\sorting\obj\Debug\sorting.pdb

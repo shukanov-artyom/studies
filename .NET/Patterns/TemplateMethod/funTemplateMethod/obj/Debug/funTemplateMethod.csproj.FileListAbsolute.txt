@@ -1,6 +1,0 @@
-D:\dev\studies\.NET\Patterns\TemplateMethod\funTemplateMethod\bin\Debug\funTemplateMethod.exe.config
-D:\dev\studies\.NET\Patterns\TemplateMethod\funTemplateMethod\bin\Debug\funTemplateMethod.exe
-D:\dev\studies\.NET\Patterns\TemplateMethod\funTemplateMethod\bin\Debug\funTemplateMethod.pdb
-D:\dev\studies\.NET\Patterns\TemplateMethod\funTemplateMethod\obj\Debug\funTemplateMethod.csprojResolveAssemblyReference.cache
-D:\dev\studies\.NET\Patterns\TemplateMethod\funTemplateMethod\obj\Debug\funTemplateMethod.exe
-D:\dev\studies\.NET\Patterns\TemplateMethod\funTemplateMethod\obj\Debug\funTemplateMethod.pdb

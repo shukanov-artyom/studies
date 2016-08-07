@@ -1,6 +1,0 @@
-D:\dev\studies\.NET\Patterns\TemplateMethod\templateMethod\bin\Debug\templateMethod.exe.config
-D:\dev\studies\.NET\Patterns\TemplateMethod\templateMethod\bin\Debug\templateMethod.exe
-D:\dev\studies\.NET\Patterns\TemplateMethod\templateMethod\bin\Debug\templateMethod.pdb
-D:\dev\studies\.NET\Patterns\TemplateMethod\templateMethod\obj\Debug\templateMethod.csprojResolveAssemblyReference.cache
-D:\dev\studies\.NET\Patterns\TemplateMethod\templateMethod\obj\Debug\templateMethod.exe
-D:\dev\studies\.NET\Patterns\TemplateMethod\templateMethod\obj\Debug\templateMethod.pdb

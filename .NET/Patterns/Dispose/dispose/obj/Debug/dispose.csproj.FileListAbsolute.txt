@@ -1,1 +1,0 @@
-D:\dev\studies\.NET\Patterns\Dispose\dispose\bin\Debug\dispose.exe.config

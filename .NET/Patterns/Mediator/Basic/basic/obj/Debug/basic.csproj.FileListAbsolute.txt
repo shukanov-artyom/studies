@@ -1,1 +1,0 @@
-d:\dev\studies\.NET\Patterns\Mediator\Basic\basic\bin\Debug\basic.exe.config
