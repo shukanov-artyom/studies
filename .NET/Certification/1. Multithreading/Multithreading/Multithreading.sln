@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading.csproj", "{4E936235-1E38-4EDF-A674-1B3179741F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTests", "..\ThreadTests\ThreadTests.csproj", "{CD6C5E7A-FE9C-485F-BAF9-4BA913996AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTests", "TaskTests\TaskTests.csproj", "{4A38467C-5DE9-417B-87FF-2F4843FDB2F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E936235-1E38-4EDF-A674-1B3179741F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E936235-1E38-4EDF-A674-1B3179741F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E936235-1E38-4EDF-A674-1B3179741F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E936235-1E38-4EDF-A674-1B3179741F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6C5E7A-FE9C-485F-BAF9-4BA913996AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6C5E7A-FE9C-485F-BAF9-4BA913996AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6C5E7A-FE9C-485F-BAF9-4BA913996AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6C5E7A-FE9C-485F-BAF9-4BA913996AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A38467C-5DE9-417B-87FF-2F4843FDB2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A38467C-5DE9-417B-87FF-2F4843FDB2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A38467C-5DE9-417B-87FF-2F4843FDB2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A38467C-5DE9-417B-87FF-2F4843FDB2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
