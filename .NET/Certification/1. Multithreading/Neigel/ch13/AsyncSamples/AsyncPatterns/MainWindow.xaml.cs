@@ -66,18 +66,24 @@ namespace Wrox.ProCSharp.Async
 
       foreach (var req in GetSearchRequests())
       {
+        // асинхронный шаблон использует методы BeginInvoke, EndInvoke и объект IAsyncResult
+        // код продолжения выполняется в потоке из пула, и он не может взять и просто выполнить операцию с UI-элементом
+        // поэтому приходится использовать диспетчер
         downloadString.BeginInvoke(req.Url, req.Credentials, ar =>
           {
             string resp = downloadString.EndInvoke(ar);
             var images = req.Parse(resp);
-            foreach (var image in images)
+            foreach (var image in images) // это лямбда-выражение вызывается в фоновом потоке из пула
             {
-              this.Dispatcher.Invoke(addItem, image);
+              this.Dispatcher.Invoke(addItem, image); // используем диспетчер, иначе упадёт эксепшен
             }
           }, null);
       }
     }
 
+    /// <summary>
+    /// Асинхронный шаблон на событиях
+    /// </summary>
     private void OnAsyncEventPattern(object sender, RoutedEventArgs e)
     {
       foreach (var req in GetSearchRequests())
@@ -90,7 +96,8 @@ namespace Wrox.ProCSharp.Async
             var images = req.Parse(resp);
             foreach (var image in images)
             {
-              searchInfo.List.Add(image);
+              searchInfo.List.Add(image); // выполняется в правильном потоке сразу же! не надо мучиться с Диспетчером!
+                  // вызывается с учётом контекста синхронизации
             }
           };
         client.DownloadStringAsync(new Uri(req.Url));
