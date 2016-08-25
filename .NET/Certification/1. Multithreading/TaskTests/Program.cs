@@ -18,7 +18,11 @@ namespace TaskTests
             Task<int> task = new Task<int>(work);
             task.Wait();*/
             //TestTask();
-            TestTask2();
+            //TestTask2();
+
+            //Continuation.TestContinuationWithAwaiter();
+
+            Continuation.TestContinuationWithTask();
         }
 
         private static void TestTask()
