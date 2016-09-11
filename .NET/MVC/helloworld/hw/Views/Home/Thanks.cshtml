@@ -1,0 +1,27 @@
+﻿@model hw.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+</head>
+<body>
+    <div>
+        <h1>Thank you, @Model.Name!</h1>
+        @if (Model.WillAttend == true)
+        {
+            @:it's great that you are coming!
+        }
+        else
+        {
+            @:Sorry to hear!
+        }
+    </div>
+</body>
+</html>
