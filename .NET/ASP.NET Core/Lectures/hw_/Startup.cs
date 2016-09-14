@@ -27,15 +27,24 @@ namespace hw_
             if (env.IsDevelopment())
             {
                 //app.UseWelcomePage();
-                app.UseDeveloperExceptionPage();
+                //app.UseDeveloperExceptionPage();
             }
 
-            app.UseMvcWithDefaultRoute();
+            // app.UseMvcWithDefaultRoute(); // дефолтные роуты!
 
-            app.Run(async (context) =>
+            app.UseMvc(
+                routes =>
+                {
+                    routes.
+                        MapRoute("Default", "{controller=Home}/{action=Index}/{id?}").
+                        MapRoute("Members", "Members/{controller=MemberHome}/{action=Index}/{id?}");
+                }
+                );
+
+            /*app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World!");
-            });
+            });*/
         }
     }
 }

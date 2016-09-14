@@ -1,22 +1,46 @@
 ﻿using System;
 using hw_.Models;
+using hw_.ViewModel;
 using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace hw_.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: /<controller>/
-        public IActionResult Index()
+        //[HttpGet]
+        public IActionResult IndexWithForm()
         {
-            var contact = new Contact()
+            return View("IndexWithForm");
+        }
+
+        //[HttpPost]   
+        public IActionResult Index([FromQuery] Contact contact)
+        {
+            //var contact = new Contact() // model class!
+            //{
+            //    FirstName = "Artyom",
+            //    LastName = "Shukanov",
+            //    Id = 1
+            //};
+
+            var customer = new Customer()
             {
-                FirstName = "Artyom",
-                LastName = "Shukanov"
+                Id = 2,
+                CustomerName = "Company"
             };
-            return View(contact);
+
+            var vm = new HomeIndexViewModel()
+            {
+                Contact = contact,
+                Customer = customer
+            };
+
+            return View(vm);
+        }
+
+        public IActionResult DownloadData()
+        {
+            return File("/DownloadData/TestData.txt", "text/plain", "TooSexy.txt");
         }
     }
 }

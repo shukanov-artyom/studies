@@ -1,4 +1,4 @@
-﻿@model hw_.Models.Contact
+﻿@model hw_.ViewModel.HomeIndexViewModel
 
 <html>
 <head>
@@ -7,6 +7,10 @@
     </Title>
 </head>
 <body>
-    Hi there @Model.FirstName
+    Hi there @Model.Contact.FirstName
+    <br/>
+    Your Id is @Model.Contact.Id
+    <br/>
+    You work for @Model.Customer.CustomerName
 </body>
 </html>
