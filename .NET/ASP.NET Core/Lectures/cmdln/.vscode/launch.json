@@ -6,17 +6,18 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/bin/Debug/netcoreapp1.0/hw_.dll",
+            "program": "${workspaceRoot}/bin/Debug/netcoreapp1.0/cmdln.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
-            "stopAtEntry": false
+            "stopAtEntry": false,
+            "externalConsole": false
         },
         {
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/bin/Debug/netcoreapp1.0/hw_.dll",
+            "program": "${workspaceRoot}/bin/Debug/netcoreapp1.0/cmdln.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
             "stopAtEntry": false,
@@ -32,20 +33,20 @@
                 },
                 "linux": {
                     "command": "xdg-open"
-                },
-                "env": {
-                "ASPNETCORE_ENVIRONMENT": "Development"
-                },
-                "sourceFileMap": {
-                    "/Views": "${workspaceRoot}/Views"
                 }
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceRoot}/Views"
             }
         },
         {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach",
-            "processName": "${command.pickProcess}"
+            "processId": "${command.pickProcess}"
         }
     ]
 }
