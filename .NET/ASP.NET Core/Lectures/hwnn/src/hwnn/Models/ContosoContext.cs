@@ -1,5 +1,3 @@
-using System;
-using System.Threading;
 using Microsoft.EntityFrameworkCore;
 
 namespace hwnn.Models
@@ -10,6 +8,10 @@ namespace hwnn.Models
             : base(options)
         {
             
-        }                
+        }     
+
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<Contact> Contacts { get; set; }
+
     } 
 }

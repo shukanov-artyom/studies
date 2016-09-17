@@ -1,7 +1,11 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using System.IO;
+using hwnn.Models;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Configuration;
 
 namespace hwnn
 {
@@ -11,28 +15,24 @@ namespace hwnn
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            var cb = new ConfigurationBuilder();
+            cb.SetBasePath(Directory.GetCurrentDirectory());
+            cb.AddJsonFile("appsettings.json");
+            IConfigurationRoot config = cb.Build();
+
+            string connectionString = config.GetConnectionString("ContosoDatabase");
+            services.AddDbContext<ContosoContext>(options => options.UseSqlServer(connectionString));
         }
 
         // pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-            // MIDDLEWARE here!
-
-            app.UseMvcWithDefaultRoute();
-
-            /*loggerFactory.AddConsole();
-
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
-
-            app.UseMvc();
-
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hello World!");
-            });*/
+            app.UseMvcWithDefaultRoute();
         }
     }
 }
