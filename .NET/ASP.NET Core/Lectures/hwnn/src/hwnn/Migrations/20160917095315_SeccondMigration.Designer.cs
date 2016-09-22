@@ -8,9 +8,10 @@ using hwnn.Models;
 namespace hwnn.Migrations
 {
     [DbContext(typeof(ContosoContext))]
-    partial class ContosoContextModelSnapshot : ModelSnapshot
+    [Migration("20160917095315_SeccondMigration")]
+    partial class SeccondMigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.0.1")
@@ -38,12 +39,23 @@ namespace hwnn.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnName("Id");
 
+                    b.Property<int?>("CustomerContactId");
+
                     b.Property<string>("CustomerName")
                         .HasAnnotation("MaxLength", 50);
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CustomerContactId");
+
                     b.ToTable("Customers");
+                });
+
+            modelBuilder.Entity("hwnn.Models.Customer", b =>
+                {
+                    b.HasOne("hwnn.Models.Contact", "CustomerContact")
+                        .WithMany()
+                        .HasForeignKey("CustomerContactId");
                 });
         }
     }

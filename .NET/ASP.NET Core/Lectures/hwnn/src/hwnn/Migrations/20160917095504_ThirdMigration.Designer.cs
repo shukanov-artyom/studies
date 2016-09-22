@@ -8,9 +8,10 @@ using hwnn.Models;
 namespace hwnn.Migrations
 {
     [DbContext(typeof(ContosoContext))]
-    partial class ContosoContextModelSnapshot : ModelSnapshot
+    [Migration("20160917095504_ThirdMigration")]
+    partial class ThirdMigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.0.1")

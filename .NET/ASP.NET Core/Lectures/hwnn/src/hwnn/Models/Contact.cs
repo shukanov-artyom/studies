@@ -1,11 +1,30 @@
-﻿namespace hwnn.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace hwnn.Models
 {
     public class Contact
     {
-        public string FirstName { get; set; }
+        [MaxLength(50)]
+        [MinLength(2)]
+        public string FirstName
+        {
+            get;
+            set;
+        }
 
-        public string LastName { get; set; }
+        [MaxLength(50)]
+        [MinLength(2)]
+        public string LastName
+        {
+            get;
+            set;
+        }
 
-        public int Id { get; set; }
+        [Required]
+        public int Id
+        {
+            get;
+            set;
+        }
     }
 }
