@@ -1,3 +1,4 @@
+-- UNION
 -- вертикальное объединение таблиц, в противовес горизонтальному объединению с помощью JOIN
 SELECT * FROM (
 	SELECT TOP(2) WITH TIES 
@@ -137,8 +138,10 @@ EXCEPT
 	WHERE TotalDue < 20000
 
 ---------------------- APPLY ------------------------------------
+-- бывают две его разновидности: OUTER APPLY и CROSS APPLY
+-- первый аналогичен LEFT JOIN, второй аналогичен INNER JOIN
 
--- показать пять последних заказов для каждого из клиентов
+-- Упражнение: показать всех клиентов, и пять последних заказов для каждого из клиентов
 -- реализация без APPLY на основе Derived Query и Window Function 
 
 SELECT 
@@ -155,12 +158,12 @@ FROM (
 ) as t 
 WHERE t. myOrder <= 5
 
--- Реализация на основе APPLY
+-- Реализация на основе OUTER APPLY
 SELECT 
 	c.CustomerID,
 	o.*
 FROM Sales.Customer AS c
-OUTER APPLY (
+OUTER APPLY ( -- покажем даже тех клиентов, у которых нет заказов
 	SELECT TOP(5) 
 		soh.SalesOrderID,
 		soh.OrderDate

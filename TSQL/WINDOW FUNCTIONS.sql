@@ -32,6 +32,7 @@ ORDER BY OrderQty;
 
 -- агрегирующая оконная функция SUM
 -- допустим, хочу для каждого заказанного предмета хочу увидеть суммарную стоимость корзины заказа, в которую он входил.
+-- выводится для каждой строки, без группировки!
 
 select * from Sales.SalesOrderDetail
 
@@ -46,7 +47,44 @@ from Sales.SalesOrderDetail sod INNER JOIN
 Production.Product pp on pp.ProductID = sod.ProductID
 ORDER BY SUM(sod.LineTotal) OVER (PARTITION BY SalesOrderID) DESC
 
-----------
+---- Упражнение: с помощью оконной функции показать для каждого заказа 
+-- полную сумму всех заказов, сделанных этим клиентом
+
+SELECT 
+	CustomerId, 
+	TotalDue, 
+	OrderDate,
+	SUM(TotalDue) OVER (Partition BY CustomerId) AS TotalDueByCustomer
+FROM Sales.SalesOrderHeader
+ORDER BY TotalDueByCustomer DESC
+
+-- дополнительные операторы позволяют указать некоторый интервал строк внутри самого окна
+-- для обработки их агрегирующей оконной функцией
+-- ВНИМАНИЕ! В данном случае оконная функция проходит не по всем строкам окна, а только по некоторому их интервалу!
+
+-- Упражнение: 
+-- Вывести для каждой из территорий список заказов, отсортированный по дате, 
+-- и для кажого заказа показать сумму всех заказов на момент даты этого заказа
+
+SELECT
+	TerritoryID, 
+	SalesOrderID,
+	TotalDue AS OrderSum,
+	ModifiedDate,
+	SUM(TotalDue) OVER (
+		PARTITION BY TerritoryId
+		ORDER BY ModifiedDate
+		-- ROWS UNBOUNDED PRECEDING
+		 ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW
+		-- ROWS BETWEEN 1 PRECEDING AND CURRENT ROW 
+		-- ROWS BETWEEN 1 PRECEDING AND 1 FOLLOWING
+		-- ROWS BETWEEN 1 PRECEDING AND UNBOUNDED FOLLOWING
+	) AS TotalMoneyForTerritory
+	-- SELECT * 
+FROM Sales.SalesOrderHeader 
+ORDER BY TerritoryID, ModifiedDate ASC;
+
+-- можно формировать очень мощные выражения!
 
 
 
