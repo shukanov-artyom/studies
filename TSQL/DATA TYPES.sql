@@ -43,3 +43,8 @@ SELECT
 	[Name]
 	,NULLIF(Color, 'Multi') as SingularColor
 FROM SalesLT.Product
+
+-- использование COALESCE
+SELECT 
+	COALESCE(DiscontinuedDate, SellEndDate, SellStartDate) AS BaseDate
+FROM SalesLT.Product
