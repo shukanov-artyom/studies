@@ -7,8 +7,8 @@
     <ProjectGuid>{0AC28EB4-00C6-47E5-9BC7-BC0EC720E87C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>System.Threading.Timer</RootNamespace>
-    <AssemblyName>System.Threading.Timer</AssemblyName>
+    <RootNamespace>System.ThreadingTimer</RootNamespace>
+    <AssemblyName>System.ThreadingTimer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
