@@ -62,3 +62,24 @@ Circle.prototype.getArea = function() {
 
 // ****************************
 // 3. the same, but more sophisticated
+
+// ???
+
+// ************** Experiments with context *****************
+
+function Contexter(){
+    var self = this;
+    console.log("In Constructor Function call this is " + this);
+}
+
+Contexter.prototype.thisExposer = function() {
+    console.log("In Exposer this equals to " + this);
+}
+
+var exp = new Contexter();
+exp.thisExposer();
+var exposerFunction = exp.thisExposer;
+exposerFunction();
+
+
+

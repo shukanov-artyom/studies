@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "simple": {
+      "commandName": "Project",
+      "commandLineArgs": "project.json"
+    }
+  }
+}
