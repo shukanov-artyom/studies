@@ -18,6 +18,7 @@ namespace identity.Infrastructure
         {
             ClaimsIdentity identity = await base.CreateAsync(userManager, user, authenticationType);
             identity.AddClaim(new Claim(ClaimTypes.Country, user.Country));
+            //something is converted to claims, something is left in ApplicationUser domain object.
             return identity;
         }
     }

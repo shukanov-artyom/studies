@@ -15,5 +15,8 @@ namespace identity.Models
 
         [Required]
         public string Country { get; set; }
+
+        [Required]
+        public int Age { get; set; }
     }
 }

@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Security.Claims;
-using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
@@ -17,13 +15,6 @@ namespace identity.Controllers
     public class AuthController : ApplicationController
     {
         private readonly UserManager<ApplicationUser> userManager;
-
-        public AuthController()
-            : this(Startup.UserManagerFactory.Invoke())
-        {
-            // blank. 
-            // TODO: organize a proper DI
-        }
 
         public AuthController(UserManager<ApplicationUser> userManager)
         {
@@ -77,7 +68,8 @@ namespace identity.Controllers
             ApplicationUser user = new ApplicationUser()
             {
                 UserName = model.Email,
-                Country = model.Country
+                Country = model.Country,
+                Age = model.Age
             };
 
             var registrationResult = await userManager.CreateAsync(user, model.Password);
