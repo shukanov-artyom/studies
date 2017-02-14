@@ -5,7 +5,7 @@ namespace identity.Infrastructure
 {
     /// <summary>
     /// This class is used in Controllers and Views and is not persisted in Database.
-    /// Actually it's just a wrapper for user's Claims collection.
+    /// Actually it's just a wrapper for user's ClaimsPrincipal : IPrincipal.
     /// </summary>
     public class ApplicationPrincipal : ClaimsPrincipal
     {
@@ -28,6 +28,15 @@ namespace identity.Infrastructure
             get
             {
                 return FindFirst(ClaimTypes.Country).Value;
+            }
+        }
+
+        public string Email
+        {
+            get
+            {
+                // Name and Email are the same in our application.
+                return FindFirst(ClaimTypes.Name).Value;
             }
         }
     }

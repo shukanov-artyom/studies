@@ -1,9 +1,5 @@
 ﻿using System;
 using identity.Controllers;
-using identity.Infrastructure;
-using identity.Persistency;
-using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Owin;
@@ -12,14 +8,16 @@ namespace identity
 {
     /// <summary>
     /// Class will be automatically found and used by OWIN framework.
+    /// Resembles .NET Core middleware wireup on startup.
     /// </summary>
     public class Startup
     {
-        public static Func<UserManager<ApplicationUser>> UserManagerFactory { get; set; }
-
+        /// <summary>
+        /// Configures application to be used by our OWIN server.
+        /// </summary>
         public void Configuration(IAppBuilder app)
         {
-            // let's use cookie authentication!
+            // Wire up OWIN Cookie middleware for authentication
             app.UseCookieAuthentication(new CookieAuthenticationOptions()
             {
                 // identify the cookie
@@ -28,19 +26,8 @@ namespace identity
                 LoginPath = new PathString("/auth/login")
             });
 
-            UserManagerFactory = () =>
-            {
-                var userManager = new UserManager<ApplicationUser>(
-                    new UserStore<ApplicationUser>(new ApplicationDbContext()));
-
-                userManager.ClaimsIdentityFactory = new ApplicationClaimsIdentityFactory();
-
-                userManager.UserValidator = new UserValidator<ApplicationUser>(userManager)
-                {
-                    AllowOnlyAlphanumericUserNames = false
-                };
-                return userManager;
-            };
+            // Wire up CORS
+            app.UseCors(Microsoft.Owin.Cors.CorsOptions.AllowAll);
         }
     }
 }

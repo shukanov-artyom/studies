@@ -1,35 +1,30 @@
 ﻿using System;
+using System.Reflection;
 using Autofac;
+using Autofac.Integration.Mvc;
 using identity.Controllers;
 using identity.Infrastructure;
 using identity.Persistency;
-using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
+using Module = Autofac.Module;
 
 namespace identity.DependencyInjection
 {
+    /// <summary>
+    /// Default Autofac module registering all requred dependencies.
+    /// </summary>
     public class DefaultModule : Module
     {
         protected override void Load(ContainerBuilder builder)
         {
             // registering controllers
-            builder.RegisterType<HomeController>().InstancePerRequest();
-            builder.RegisterType<AuthController>().InstancePerRequest();
+            builder.RegisterControllers(typeof(HomeController).Assembly);
 
-            // registering services and other dependencies
-            builder.Register(c => CreateUserManagerFactory());
-        }
+            // registering data context (Transient Scope)
+            builder.RegisterType<ApplicationDbContext>().AsSelf().InstancePerDependency();
 
-        private UserManager<ApplicationUser> CreateUserManagerFactory()
-        {
-            var userManager = new UserManager<ApplicationUser>(
-                    new UserStore<ApplicationUser>(new ApplicationDbContext()));
-            userManager.ClaimsIdentityFactory = new ApplicationClaimsIdentityFactory();
-            userManager.UserValidator = new UserValidator<ApplicationUser>(userManager)
-            {
-                AllowOnlyAlphanumericUserNames = false
-            };
-            return userManager;
+            // registering Identity custom UserManager factory 
+            // to get new ApplicationUserManager
+            builder.Register(c => ApplicationUserManagerFactory.Create());
         }
     }
 }

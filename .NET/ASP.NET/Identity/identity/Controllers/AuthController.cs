@@ -14,9 +14,9 @@ namespace identity.Controllers
     [AllowAnonymous]
     public class AuthController : ApplicationController
     {
-        private readonly UserManager<ApplicationUser> userManager;
+        private readonly ApplicationUserManager userManager;
 
-        public AuthController(UserManager<ApplicationUser> userManager)
+        public AuthController(ApplicationUserManager userManager)
         {
             this.userManager = userManager;
         }

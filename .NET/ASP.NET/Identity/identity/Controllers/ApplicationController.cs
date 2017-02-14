@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Claims;
 using System.Web.Mvc;
 using identity.Infrastructure;
 
@@ -14,7 +15,7 @@ namespace identity.Controllers
         {
             get
             {
-                return new ApplicationPrincipal(User as ApplicationPrincipal);
+                return new ApplicationPrincipal(User as ClaimsPrincipal);
             }
         }
     }

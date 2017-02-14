@@ -1,0 +1,19 @@
+﻿@model identity.Models.DeleteAccountModel
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Are you sure you want to delete your account?</h2>
+
+@using (Html.BeginForm())
+{
+    <h3>Please enter your email to confirm account deletion.</h3>
+    <br/>
+    @Html.EditorForModel()
+    <p>
+        <br />
+        <button type="submit">Delete account</button>
+    </p>
+}
+
+

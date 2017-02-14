@@ -18,5 +18,13 @@ namespace identity.Models
 
         [Required]
         public int Age { get; set; }
+
+        [Required]
+        [MaxLength(100)]
+        public string FirstName { get; set; }
+
+        [Required]
+        [MaxLength(100)]
+        public string LastName { get; set; }
     }
 }
