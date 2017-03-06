@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A71B9FF0-1457-4AB9-BC5B-689BCD8E600C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B6A5C0E9-B618-40F9-AB8B-8195FA1726EF}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "coreangular", "src\coreangular\coreangular.xproj", "{B92365CD-6617-4A85-8D01-6EE48A57CDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92365CD-6617-4A85-8D01-6EE48A57CDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92365CD-6617-4A85-8D01-6EE48A57CDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92365CD-6617-4A85-8D01-6EE48A57CDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92365CD-6617-4A85-8D01-6EE48A57CDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B92365CD-6617-4A85-8D01-6EE48A57CDDA} = {A71B9FF0-1457-4AB9-BC5B-689BCD8E600C}
+	EndGlobalSection
+EndGlobal
