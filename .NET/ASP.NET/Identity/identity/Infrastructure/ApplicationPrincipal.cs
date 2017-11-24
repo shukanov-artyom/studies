@@ -5,7 +5,7 @@ namespace identity.Infrastructure
 {
     /// <summary>
     /// This class is used in Controllers and Views and is not persisted in Database.
-    /// Actually it's just a wrapper for user's ClaimsPrincipal : IPrincipal.
+    /// Actually it's just a strongly-typed wrapper for user's ClaimsPrincipal : IPrincipal.
     /// </summary>
     public class ApplicationPrincipal : ClaimsPrincipal
     {

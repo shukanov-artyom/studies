@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+      <OutputType>Exe</OutputType>
+      <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+      <!-- Install System.Reactive extensions which are Rx themselves for .Net Core-->
+      <PackageReference Include="System.Reactive" Version="3.1.1" />
+      <PackageReference Include="System.Interactive" Version="3.1.1" />
+  </ItemGroup>
+
+</Project>
