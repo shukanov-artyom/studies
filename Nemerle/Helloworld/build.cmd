@@ -1,0 +1,1 @@
+ncc hw.n -o sborka.exe -t exe

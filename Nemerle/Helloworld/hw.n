@@ -1,5 +1,18 @@
-public class HelloWorld {
-    public static Main () : void {
-        System.Console.WriteLine("Pepe");
+using System;
+
+public class HelloWorld 
+{
+    public static Main () : void 
+    {
+
+        def cond = true;
+        match(cond) { 
+            | true => foo
+            | _ => { doSomething(); foo }
+        }
     }
+
+    private static doSomething() : void {
+        System.Console.WriteLine("Doing Something");
+    } 
 }
