@@ -1,0 +1,1 @@
+REM Script automatically creates a new certificate in a specified store and adds NETWORK SERVICE permissions to be consumed from a web app hosted in IIS
